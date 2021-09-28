@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Dominik_Posavec_C#\OS2_projekt\OS_Projekt\bin\Debug\OS_Projekt.exe.config
+C:\Users\User\Desktop\Dominik_Posavec_C#\OS2_projekt\OS_Projekt\bin\Debug\OS_Projekt.exe
+C:\Users\User\Desktop\Dominik_Posavec_C#\OS2_projekt\OS_Projekt\bin\Debug\OS_Projekt.pdb
+C:\Users\User\Desktop\Dominik_Posavec_C#\OS2_projekt\OS_Projekt\obj\Debug\Kriptiranje.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Dominik_Posavec_C#\OS2_projekt\OS_Projekt\obj\Debug\OS_Projekt.Form1.resources
+C:\Users\User\Desktop\Dominik_Posavec_C#\OS2_projekt\OS_Projekt\obj\Debug\OS_Projekt.Properties.Resources.resources
+C:\Users\User\Desktop\Dominik_Posavec_C#\OS2_projekt\OS_Projekt\obj\Debug\Kriptiranje.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Dominik_Posavec_C#\OS2_projekt\OS_Projekt\obj\Debug\Kriptiranje.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Dominik_Posavec_C#\OS2_projekt\OS_Projekt\obj\Debug\OS_Projekt.exe
+C:\Users\User\Desktop\Dominik_Posavec_C#\OS2_projekt\OS_Projekt\obj\Debug\OS_Projekt.pdb

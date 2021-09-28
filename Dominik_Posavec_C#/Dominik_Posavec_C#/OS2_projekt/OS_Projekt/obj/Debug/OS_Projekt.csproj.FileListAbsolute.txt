@@ -1,0 +1,20 @@
+C:\Users\Korisnik\Desktop\OS Projekt\OS_Projekt\OS_Projekt\bin\Debug\OS_Projekt.exe.config
+C:\Users\Korisnik\Desktop\OS Projekt\OS_Projekt\OS_Projekt\bin\Debug\OS_Projekt.exe
+C:\Users\Korisnik\Desktop\OS Projekt\OS_Projekt\OS_Projekt\bin\Debug\OS_Projekt.pdb
+C:\Users\Korisnik\Desktop\OS Projekt\OS_Projekt\OS_Projekt\obj\Debug\OS_Projekt.csprojAssemblyReference.cache
+C:\Users\Korisnik\Desktop\OS Projekt\OS_Projekt\OS_Projekt\obj\Debug\OS_Projekt.Form1.resources
+C:\Users\Korisnik\Desktop\OS Projekt\OS_Projekt\OS_Projekt\obj\Debug\OS_Projekt.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\OS Projekt\OS_Projekt\OS_Projekt\obj\Debug\OS_Projekt.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\OS Projekt\OS_Projekt\OS_Projekt\obj\Debug\OS_Projekt.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\OS Projekt\OS_Projekt\OS_Projekt\obj\Debug\OS_Projekt.exe
+C:\Users\Korisnik\Desktop\OS Projekt\OS_Projekt\OS_Projekt\obj\Debug\OS_Projekt.pdb
+C:\Users\User\Desktop\OS_Projekt\OS_Projekt\bin\Debug\OS_Projekt.exe.config
+C:\Users\User\Desktop\OS_Projekt\OS_Projekt\bin\Debug\OS_Projekt.exe
+C:\Users\User\Desktop\OS_Projekt\OS_Projekt\bin\Debug\OS_Projekt.pdb
+C:\Users\User\Desktop\OS_Projekt\OS_Projekt\obj\Debug\OS_Projekt.csprojAssemblyReference.cache
+C:\Users\User\Desktop\OS_Projekt\OS_Projekt\obj\Debug\OS_Projekt.Form1.resources
+C:\Users\User\Desktop\OS_Projekt\OS_Projekt\obj\Debug\OS_Projekt.Properties.Resources.resources
+C:\Users\User\Desktop\OS_Projekt\OS_Projekt\obj\Debug\OS_Projekt.csproj.GenerateResource.cache
+C:\Users\User\Desktop\OS_Projekt\OS_Projekt\obj\Debug\OS_Projekt.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OS_Projekt\OS_Projekt\obj\Debug\OS_Projekt.exe
+C:\Users\User\Desktop\OS_Projekt\OS_Projekt\obj\Debug\OS_Projekt.pdb
